@@ -7,7 +7,7 @@ Este sistema foi desenvolvido para a **Prefeitura Municipal de Nova Lima (PMNL)*
 
 Agradecimento especial: Este projeto foi um sucesso, rodando para mais de 5 mil pessoas e trazendo praticidade para todos os envolvidos. Obrigado a todos os colaboradores e participantes que tornaram isso possível!
 
-<img src="https://github.com/user-attachments/assets/d0a73f41-d4e0-4ce4-a979-b48951b4bb6a" style="width: 100%; height: 500px" alt="Imagem do Dia do Projeto">
+<img src="https://github.com/user-attachments/assets/0b5a3d94-11b5-421e-83fa-2e210ae4db0d" style="width: 100%; height: 500px" alt="Imagem do Dia do Projeto">
 
 ---
 
