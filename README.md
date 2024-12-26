@@ -1,2 +1,107 @@
-# CestasNatalPMNL
-Sistema de Gestão de Cestas Natalinas Projeto desenvolvido e implementado por Lucas Gabriel Lopes de Souza para a Prefeitura Municipal de Nova Lima, otimizando a distribuição de cestas natalinas com QR Codes, validação em tempo real e relatórios dinâmicos.
+# Entrega de Cestas Natalinas - PMNL
+
+<img src="https://github.com/user-attachments/assets/79196313-6cc8-42e8-8979-39d43a8c5403">
+
+## Sobre o Projeto
+Este sistema foi desenvolvido para a **Prefeitura Municipal de Nova Lima (PMNL)** com o objetivo de gerenciar e organizar a distribuição de cestas natalinas aos servidores e beneficiários, utilizando QR Codes e validação em tempo real.
+
+Agradecimento especial: Este projeto foi um sucesso, rodando para mais de 5 mil pessoas e trazendo praticidade para todos os envolvidos. Obrigado a todos os colaboradores e participantes que tornaram isso possível!
+
+<img src="https://github.com/user-attachments/assets/d0a73f41-d4e0-4ce4-a979-b48951b4bb6a" style="width: 100%; height: 500px" alt="Imagem do Dia do Projeto">
+
+---
+
+## Funcionalidades Principais
+- **Gerador de QR Code**: Cria QR Codes únicos para cada beneficiário.
+- **Validador de QR Code**: Validação rápida através de integração com o Google Sheets.
+- **Relatórios Dinâmicos**: Controle de status das cestas retiradas e pendentes.
+- **Interface para Terceiros**: Registro de retiradas realizadas por terceiros com segurança e controle.
+
+---
+
+## Visualizações do Sistema
+<table>
+  <tr>
+    <td align="center" style="width: 300px; height: 300px;">
+      <h3>Gerador de QR Code</h3>
+      <img src="https://github.com/user-attachments/assets/6f4babf5-8386-41d3-8d9d-509015550208" style="width: 100%; height: auto;" alt="Gerador de QR Code">
+    </td>
+    <td align="center" style="width: 300px; height: 300px;">
+      <h3>Instruções de Retirada e Geração do QR Code</h3>
+      <img src="https://github.com/user-attachments/assets/340939f1-c607-4425-be19-bb00735d0afe" style="width: 100%; height: auto;" alt="Instruções de Retirada">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 300px; height: 300px;"colspan="2">
+      <h3>QR Code Baixado</h3>
+      <img src="https://github.com/user-attachments/assets/78ec29ae-f178-4219-8ac1-cb09431919ec" style="width: 70%; height: 800px;" alt="QR Code Baixado">
+    </td>
+  </tr>
+      <tr>
+    <td align="center" style="width: 300px; height: 300px;"colspan="2">
+      <h3>Validação QR Code</h3>
+      <img src="https://github.com/user-attachments/assets/54104c15-1074-4c1d-9745-5800bcee3d3e" style="width: 100%; height: auto;" alt="Validação QR Code">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 300px; height: 300px;"colspan="2">
+      <h3>Validação QR Code (Pode Retirar a Cesta)</h3>
+      <img src="https://github.com/user-attachments/assets/21b044f8-4266-4278-8acb-b30b84fd1849" style="width: 100%; height: auto;" alt="Pode Retirar a Cesta"><br>
+      <img src="https://github.com/user-attachments/assets/1d418f57-31c3-4797-bd6b-101f1fcc0f37" style="width: 100%; height: auto;" alt="Pode Retirar a Cesta">
+    </td>
+     </tr>
+    <tr>
+    <td align="center" style="width: 300px; height: 300px;"colspan="2">
+      <h3>Validação QR Code (Cesta Já Retirada)</h3>
+      <img src="https://github.com/user-attachments/assets/d8adfa0b-66e1-4008-9d4f-73a7cef912f1" style="width: 100%; height: auto;" alt="Cesta Já Retirada">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 300px; height: 300px;" colspan="2">
+      <h3>Validação QR Code (Por Terceiros)</h3>
+      <img src="https://github.com/user-attachments/assets/fcbed89a-a852-46f0-944a-8452e1b1e7d8" style="width: 100%; height: auto;" alt="Por Terceiros">
+    </td>
+  </tr>
+   <tr>
+    <td align="center" style="width: 300px; height: 300px;" colspan="2">
+      <h3>Relatorio em TEMPO REAL</h3>
+    <img src="https://github.com/user-attachments/assets/2bb0712a-c547-43ad-b58a-fce6bce81e69">
+   </td>
+  </tr>
+</table>
+
+## Como Funciona
+
+### 1. Gerador de QR Code
+1. Acesse o gerador de QR Code.
+2. Insira os dados do beneficiário (CPF, matrícula, secretaria).
+3. Clique em **Gerar QR Code**.
+4. Se o CPF não estiver registrado na base de dados, não será possível gerar o QR Code.
+   
+### 2. Validação de QR Code
+1. Escaneie o QR Code ou insira o CPF do beneficiário.
+2. O sistema exibirá uma mensagem informando o status:
+   - **Pode Retirar**: Retirada liberada.
+   - **Já Retirada**: Exibe a data e horário da retirada.
+   - **CPF Inválido**: Beneficiário não encontrado.
+
+### 3. Relatório de Status
+- Monitore a quantidade de cestas **retiradas** e **pendentes** em tempo real.
+
+### 4. Retiradas por Terceiros
+- Preencha as informações necessárias para validar retiradas realizadas por terceiros com segurança.
+
+---
+
+## Tecnologias Utilizadas
+- **Frontend**: HTML5, CSS3, JavaScript.
+- **Backend**: PHP.
+- **Repositórios**: QRCode.js, jsPDF.
+- **Integração**: Automação com Google Sheets utilizando Apps Script para programar em JavaScript.
+
+---
+<img src= "https://github.com/user-attachments/assets/cc40b53e-ead1-462e-9bb7-34e639b53f77" style="width: 100%; height: 400px">
+Aqui está uma versão com um tom mais forte e destacado, ideal para o README:
+
+---
+### **Desenvolvido e Implementado por**: Lucas Gabriel Lopes de Souza  
