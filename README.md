@@ -53,7 +53,7 @@ Agradecimento especial: Este projeto foi um sucesso, rodando para mais de 5 mil 
     <tr>
     <td align="center" style="width: 300px; height: 300px;"colspan="2">
       <h3>Validação QR Code (Cesta Já Retirada)</h3>
-      <img src="https://github.com/user-attachments/assets/d8adfa0b-66e1-4008-9d4f-73a7cef912f1" style="width: 100%; height: auto;" alt="Cesta Já Retirada">
+      <img src="https://github.com/user-attachments/assets/057304f4-6bdf-4b1d-aa24-887d7161ebbe" style="width: 100%; height: auto;" alt="Cesta Já Retirada">
     </td>
   </tr>
   <tr>
