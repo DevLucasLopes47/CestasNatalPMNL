@@ -1,6 +1,6 @@
 # Entrega de Cestas Natalinas - PMNL
 
-<img src="https://github.com/user-attachments/assets/79196313-6cc8-42e8-8979-39d43a8c5403">
+<img src="https://github.com/user-attachments/assets/dac69ffb-2323-4d8c-9667-ab7a87cbe463">
 
 ## Sobre o Projeto
 Este sistema foi desenvolvido para a **Prefeitura Municipal de Nova Lima (PMNL)** com o objetivo de gerenciar e organizar a distribuição de cestas natalinas aos servidores e beneficiários, utilizando QR Codes e validação em tempo real.
