@@ -47,7 +47,7 @@ Agradecimento especial: Este projeto foi um sucesso, rodando para mais de 5 mil 
     <td align="center" style="width: 300px; height: 300px;"colspan="2">
       <h3>Validação QR Code (Pode Retirar a Cesta)</h3>
       <img src="https://github.com/user-attachments/assets/080c546e-09ab-4f1b-b852-e20450c0c5dd" style="width: 100%; height: auto;" alt="Pode Retirar a Cesta"><br>
-      <img src="https://github.com/user-attachments/assets/10bf0346-6823-426e-b697-507bd6b87c83" style="width: 100%; height: auto;" alt="Pode Retirar a Cesta">
+      <img src="https://github.com/user-attachments/assets/7c3ae978-20d2-4475-b9e8-9fb2a27b410d" style="width: 100%; height: auto;" alt="Pode Retirar a Cesta">
     </td>
      </tr>
     <tr>
