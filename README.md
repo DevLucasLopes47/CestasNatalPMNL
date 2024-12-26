@@ -101,4 +101,4 @@ Agradecimento especial: Este projeto foi um sucesso, rodando para mais de 5 mil 
 
 ---
 <img src= "https://github.com/user-attachments/assets/cc40b53e-ead1-462e-9bb7-34e639b53f77" style="width: 100%; height: 400px">
-Desenvolvido e Implementado por Lucas Gabriel Lopes de Souza  
+Desenvolvido e Implementado por Lucas, Sanderson e Ana Clara  
