@@ -28,7 +28,7 @@ Agradecimento especial: Este projeto foi um sucesso, rodando para mais de 5 mil 
     </td>
     <td align="center" style="width: 300px; height: 300px;">
       <h3>Instruções de Retirada e Geração do QR Code</h3>
-      <img src="https://github.com/user-attachments/assets/340939f1-c607-4425-be19-bb00735d0afe" style="width: 100%; height: auto;" alt="Instruções de Retirada">
+      <img src="https://github.com/user-attachments/assets/5791424c-e381-4301-a774-d9c028cb43d3" style="width: 100%; height: auto;" alt="Instruções de Retirada">
     </td>
   </tr>
   <tr>
